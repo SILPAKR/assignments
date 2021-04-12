@@ -18,4 +18,12 @@ contract SetValue
     
 	{
         
-		return n;
+	
+	return n;}
+	
+	
+		
+		
+		
+		
+		
